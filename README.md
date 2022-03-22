@@ -6,7 +6,7 @@
 
 Git is the most successful Web3 project.
 
-The tweet that triggered a TerminusDB debate.
+The tweet that launched a thousand TerminusDB debates.
 
 If git is the most successful Web3 project, and TerminusDB is ‘git for data’ then we must be web3, right? *[Socrates is a man](https://en.wikipedia.org/wiki/Syllogism) and all that*.
 
