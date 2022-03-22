@@ -63,6 +63,11 @@ Hmmm lots of replies on hacker news about the web3 part. To be honest, I'm also 
 
 Feels a bit like this type of debate. 
 
+<p align="center">
+<img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/B_AiI9_XIAA67_t.jpg">
+  
+
+
 Their snarky, snobby engineers who see themselves as the holders of  truth. 
 
 Vs
@@ -70,13 +75,7 @@ Vs
 The crypto-bro NFT grifters moronically engaging in a pyramid scheme. 
 
 i think we need to start looking at baby not bathwater web3 content for the site & blog
-[
-12:00 PM
-]
 we should have a discussion, but i think we should wet our beaks at least
-[
-12:00 PM
-]
 gavin has some ideas about content on distributed architecture
 
 
@@ -152,8 +151,16 @@ if we can't separate out the valuable from the useless, nobody else will do it f
 the hype is the problem, not the ideas
 
 
-
-
-
-
+<p align="center">
+<img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/image.png">
+  
+  
+  
+<p align="center">
+<img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/twittervote.JPG">
+  
+  
+  
+<p align="center">
+<img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/linkedinvote.JPG">
 
