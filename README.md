@@ -8,21 +8,22 @@ Git is the most successful Web3 project.
 
 The tweet that launched a thousand TerminusDB debates.
 
-If git is the most successful Web3 project, and TerminusDB is ‘git for data’ then we must be web3, right? *[Socrates is a man](https://en.wikipedia.org/wiki/Syllogism) and all that*.
+If git is the most successful Web3 project, and TerminusDB is ‘git for data’ then we must be web3, right? *[Socrates is a man](https://en.wikipedia.org/wiki/Syllogism) and all that*. 
 
 ### We are git for data, so are we web3? 
   
 This is obviously something that revision control distributed databases with git-like qualities, so I asked the author of the [definitive blog](https://www.dolthub.com/blog/2021-09-17-database-version-control/) on version controlled databases. Tim from [Dolt](https://github.com/dolthub/dolt) said: 
-```
-If we’re extending the definition of web3 to include decentralized software systems, Version controlled databases, like Terminus and Dolt, must be included.
-```
+
+> If we’re extending the definition of web3 to include decentralized software systems, Version controlled databases, like Terminus and Dolt, must be included. Tim Sehn
+
   
-We had been batting some Web3 ideas back and forth, but mostly in the context of pitching to VCs
+We had been batting some Web3 ideas back and forth, but mostly in the context of pitching to VCs. Here is an email Gavin sent to me:
 
 ```
 # Web3
 
-If the rumours we've heard are correct, web3 is a buzz-word for VC froth at the moment. We aren't so far away from web3 at the minute anyhow, so if so, this would be good. What constitutes web3?
+If the rumours we've heard are correct, web3 is a buzz-word for VC froth at the moment. 
+We aren't so far away from web3 at the minute anyhow, so if so, this would be good. What constitutes web3?
 
 * Verifiable
 * Trustless
@@ -34,22 +35,23 @@ If the rumours we've heard are correct, web3 is a buzz-word for VC froth at the 
 
 The first two have been road map for a long time, but we've never gotten enough interest from *users* to front it.
 
-We are "self-governing" in the sense of being multi-master. We have an auth based capability model, so "permissionless" in a web3 sense. We are distributed, robust and stateful.
+We are "self-governing" in the sense of being multi-master. We have an auth based capability model, 
+so "permissionless" in a web3 sense. We are distributed, robust and stateful.
 
-The last of these doesn't exist - although we've thought about it. We could probably pitch to web3 given the current coverage, and claim the other parts as roadmap.
+The last of these doesn't exist - although we've thought about it. We could probably pitch to web3 
+given the current coverage, with the outstanding parts as roadmap.
 ```
+  
 We need money to grow the project and there has been a lot of energy (and funding) in web3 projects. 
 
-We then mentioned Web3 in this JSON Diff and Patch article that was briefly on the front page of Hacker News. 
-
-https://terminusdb.com/blog/json-diff-and-patch-the-future/
+We then mentioned Web3 in this JSON Diff and Patch article that was [briefly on the front page of Hacker News](https://terminusdb.com/blog/json-diff-and-patch-the-future/)
 
 And even thou the article wasn’t about web3, that’s where there was push back in the comments
 
-```
+
 > web3
 oh no. 
-```
+
 
 
 https://news.ycombinator.com/item?id=30362025
