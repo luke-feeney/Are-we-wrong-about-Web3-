@@ -1,4 +1,4 @@
-# Are-we-wrong-about-Web3?
+# Were-we-wrong-about-Web3?
 
 
 <p align="center">
@@ -8,16 +8,17 @@ Git is the most successful Web3 project.
 
 The tweet that launched a thousand TerminusDB debates.
 
-If git is the most successful Web3 project, and TerminusDB is ‘git for data’ then we must be web3, right? *[Socrates is a man](https://en.wikipedia.org/wiki/Syllogism) and all that*. 
+If git is the most successful Web3 project, and TerminusDB is ‘git for data’ then we must be web3, right? *[Socrates is a man](https://en.wikipedia.org/wiki/Syllogism) and all that*. But isn't web3 about blockchain and crypto? Certainly every hacker site that I visit has an article attacking web3, but *usually* just as a proxy for attacking blockchain. And that I get. Blockchain is too slow for data. 
 
 ### We are git for data, so are we web3? 
   
-This is obviously something that revision control distributed databases with git-like qualities, so I asked the author of the [definitive blog](https://www.dolthub.com/blog/2021-09-17-database-version-control/) on version controlled databases. Tim from [Dolt](https://github.com/dolthub/dolt) said: 
+While blockchain is too slow for software, immutabile - or append-only - data store are great. Or at least I think so. Web3 This is obviously something that revision control distributed databases with git-like qualities, so I asked the author of the [definitive blog](https://www.dolthub.com/blog/2021-09-17-database-version-control/) on version controlled databases. Tim from [Dolt](https://github.com/dolthub/dolt) said: 
 
 > If we’re extending the definition of web3 to include decentralized software systems, Version controlled databases, like Terminus and Dolt, must be included. Tim Sehn
 
+But maybe I am just projecting my own image - or the image of TerminusDB - on web3? Like Narcissus, am I falling in love with my own reflection? 
   
-We had been batting some Web3 ideas back and forth, but mostly in the context of pitching to VCs. Here is an email Gavin sent to me:
+We spent the late part of last year batting some Web3 ideas back and forth, but mostly in the context of pitching to VCs. Here is an email that Gavin sent to me:
 
 ```
 # Web3
@@ -42,97 +43,101 @@ The last of these doesn't exist - although we've thought about it. We could prob
 given the current coverage, with the outstanding parts as roadmap.
 ```
   
-We need money to grow the project and there has been a lot of energy (and funding) in web3 projects. 
+We need money to grow the project and there has been a lot of energy (and funding) in web3 projects. But in that description you get a feeling for what we see as web3. A lot of contrarian hacker commentary suggests that web 2.0 gave us centralized services because that is what we want. People - in this antropology of the internet - aren't like network engieers with their love of distributed systems, they want Facebook to see their pals and google to do the rest. In this model, people don't want to spend time setting up their own shit and just want to use what is there at whatever price. That's true - but it also describes the failure of distributed systems in web 2.0 - people don't want to set up their own shit AND they don't want megacorps controlling their digital lives. Our vision of web3 has both. 
+  
 
-We then mentioned Web3 in this JSON Diff and Patch article that was [briefly on the front page of Hacker News](https://terminusdb.com/blog/json-diff-and-patch-the-future/)
+To return to the debate narrative, we then mentioned Web3 in this [JSON Diff and Patch article](https://terminusdb.com/blog/json-diff-and-patch-the-future/) that was briefly on the [front page of Hacker News](https://news.ycombinator.com/item?id=30362025)
 
-And even thou the article wasn’t about web3, that’s where there was push back in the comments
-
+And even thou the article wasn’t about web3, that’s where the push back came in the comments. People are *literally* offended by the word. 
 
 > web3
 oh no. 
 
 
-
-https://news.ycombinator.com/item?id=30362025
-
-And then one of our engineers wrote in support of the naysayers in our Discord:
+And then the plot thickened... one of our engineers wrote in support of the naysayers in our Discord:
 
 ```
-Hmmm lots of replies on hacker news about the web3 part. To be honest, I'm also a bit allergic to those words. 😄 But perhaps controversy is also good marketing? I don't know
+Hmmm lots of replies on hacker news about the web3 part. To be honest, I'm also a bit allergic to those words. 
+  😄 But perhaps controversy is also good marketing? I don't know
 ```
 
 
-Feels a bit like this type of debate. 
+In general the whole thing feels a bit like this type of debate: 
 
 <p align="center">
 <img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/B_AiI9_XIAA67_t.jpg">
   
 
 
-Their snarky, snobby engineers who see themselves as the holders of  truth. 
+Their snarky, snobby engineers who see themselves as the holders of development truth. 
 
 Vs
 
-The crypto-bro NFT grifters moronically engaging in a pyramid scheme. 
-
-i think we need to start looking at baby not bathwater web3 content for the site & blog
-we should have a discussion, but i think we should wet our beaks at least
-gavin has some ideas about content on distributed architecture
+Those crypto-bro NFT grifters moronically engaging in a pyramid scheme. 
 
 
+The conversation moved into our community and most their supported the anit-web3 vibe.
 
-The conversation moved into our community and most of the commentators supported the anit-web3 vibe.
-
-```
-I share the other posters reaction 🤣
+> I share the other posters reaction 🤣
 web3
 oh no.
 for the love of all that is holy, don't go there
-```
-```
-we know that you make cool stuff, but only mentioning web3 in a serious tone is setting all my bullshit spider senses 🕸️🕸️🕸️
-```
-```
-It is in my experience, unless you're out for funding from some crypto whales, I wouldn't touch it with a ten foot pole. NFTs were the death knell to the whole thing, bitcoins absurdity brought to a level indistinguishable from satire
-```
 
-I then suggested that we should try to rebrand Web3 and Sembatic Web3 to take advantage of our varied strengths. This was - the admittedly hilarious - response:
+This was followed with some faint praise
+  
+> we know that you make cool stuff, but only mentioning web3 in a serious tone is setting all my bullshit spider senses 🕸️🕸️🕸️
 
-```
-to get both the connotation of failed enterprise technology and scammy hipster tech?
-```
+And (which is funny as we would - of course - like funding from any crypto whales out there) 
+  
+> It is in my experience, unless you're out for funding from some crypto whales, I wouldn't touch it with a ten foot pole. NFTs were the death knell to the whole thing, bitcoins absurdity brought to a level indistinguishable from satire
 
 
-After that, we were all a little chastened and thought that we should just go slow on the Web3 talk and continue to build quality software that hackers and devs want to use. Devs are our people and we don’t want to alienate them with spoofy ideas. 
+I then suggested that we should try to rebrand Web3 and 'Sematic Web3' to take advantage of our varied strengths. This was - the admittedly hilarious - response:
 
-But then somebody came into our community with a really interesting Web3 (!) idea. 
+> to get both the connotation of failed enterprise technology and scammy hipster tech?
 
-They are developing a permissionless public blockchain protocol to transcribe all music ever recorded, making it available for academia, copyright dispute settlement, developers and musicians all over the world. 
 
-They landed in TerminusDB as 
+After that, the TerminusDB team - and especially the pro Web3 crew - were a little chastened and thought that we should just go slow on the Web3 talk while continuing to build quality software that hackers and devs want to use. Devs are our people and we don’t want to alienate them with spoofy ideas. 
+
+🎼🎼🎼🎼
+
+But then somebody came into [our community](https://discord.gg/thy2NQwXbc) with a really interesting Web3 (!) idea. 
+
+It is called [*Parture*](https://parture.org) and they are on a mission to transcribe all music *ever* recorded 
+  
+They are developing a permissionless public blockchain protocol to transcribe all music, make it available for academia, copyright dispute settlement, developers and musicians all over the world. 
+
+They landed in TerminusDB and said
+  
 ```
 it seems to be the only db to do what I want, which is immutable graph DB, with branching, AND query!
 ```
 
-There is a DAO-layer that manages the catalog and is tasked with linking the best, most accurate sheet music versions (data hashes) to the official artist/album entries. Once sheet music data is accepted as the main official link to a track in the catalog, every contributor gets an NFT equal to the size of the contribution. This is why every version, every edit and all the history of every score edited on the platform needs to be kept. The NFT is tradeable and generates fees from API use.
+What is not to like!
+  
 
-So every time you generate a karaoke backing track for a new song, you pay a small fee, and that fee is distributed over every contributor that worked on that particular score likewise, when you search the platform using the API, saying "give me all tracks that are both similar to Beethoven AND franz ferdinand, in the key of C but not longer than 30 measures", the fee you pay for the query is distributed over all share owners (contributors) of all scores that come up as a search result
+The vision for Parture is a [DAO-layer](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization) that manages the catalog and is tasked with linking the best, most accurate sheet music versions (data hashes) to the official artist/album entries. Once sheet music data is accepted as the main official link to a track in the catalog, every contributor gets an NFT equal to the size of the contribution. This is why every version, every edit and all the history of every score edited on the platform needs to be kept. The NFT is tradeable and generates fees from API use.
 
-Very cool idea - distributed, approval pipeline, data merge, self-governing… all of Terminus’ highlights. 
+So every time you generate a karaoke backing track for a new song, you pay a small fee, and that fee is distributed over every contributor that worked on that particular score likewise, when you search the platform using the API, saying "give me all tracks that are both similar to Beethoven AND franz ferdinand, in the key of C but not longer than 30 measures", the fee you pay for the query is distributed over all share owners (contributors) of all scores that come up as a search result.
 
-After this I thought I should have another attempt to convince the team and sent:
+Great idea - distributed, approval pipeline, data merge, self-governing… all of Terminus’ (and Web3's) highlights. 
 
-```
-i think we need to start looking at baby not bathwater web3 content for the site & blog
+After this I thought I should have another attempt to convince the team and said
+
+
+> i think we need to start looking at 'baby not bathwater' web3 content for the site & blog
 we should have a discussion, but i think we should wet our beaks at least
-```
 
-Which was met with:
+(baby not bathwater is in reference to a line I have been propogating about not throwing the distributed, decetnralized baby out with the NFT bathwater)
 
-```
-I'm not part of marketing so it is obvious not my thing to decide but as a developer I get the chills every time I read Web 3.0. If a project contains this sort of text it immediately puts me off and I would really have to be convinced that it is a good thing before I look at it again. 😄 I think the majority of devs are like this and only a tiny amount of cryptocurrency enthusiasts like the whole idea of Web 3.0. I would be a little bit reluctant about riding the hype train as I remember that the "AI Code generation" thing was also badly received and puts people off.
-```
+Which was met with
+
+
+> I'm not part of marketing so it is obvious not my thing to decide but as a developer I get the chills every time I read Web 3.0. If a project contains this sort of text it immediately puts me off and I would really have to be convinced that it is a good thing before I look at it again. 😄 I think the majority of devs are like this and only a tiny amount of cryptocurrency enthusiasts like the whole idea of Web 3.0. I would be a little bit reluctant about riding the hype train as I remember that the "AI Code generation" thing was also badly received and puts people off.
+
+<p align="center">
+<img src="https://github.com/terminusdb/terminusdb-web-assets/blogs/aicodegeneration.png">
+  
 (‘AI Code Generation’ is a reference to a much mocked feature that we used to list on our website. We have method of facilitating construction of a user interface from a data model, which - if you squint and twist your head to 90 degrees - could be AI Code Generation)
 
 My answer:
