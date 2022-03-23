@@ -135,39 +135,43 @@ Which was met with
 
 > I'm not part of marketing so it is obvious not my thing to decide but as a developer I get the chills every time I read Web 3.0. If a project contains this sort of text it immediately puts me off and I would really have to be convinced that it is a good thing before I look at it again. 😄 I think the majority of devs are like this and only a tiny amount of cryptocurrency enthusiasts like the whole idea of Web 3.0. I would be a little bit reluctant about riding the hype train as I remember that the "AI Code generation" thing was also badly received and puts people off.
 
-<p align="center">
-<img src="https://github.com/terminusdb/terminusdb-web-assets/blogs/aicodegeneration.png">
+‘AI Code Generation’ is a reference to a much mocked feature that we used to list on our website. We have a patented [method of facilitating construction of a user interface](https://patents.google.com/patent/US11238059B2/en) from a data model, which - if you squint and twist your head to 90 degrees - could be AI Code Generation, but you can understand why people weren't comfortable with this and other elements of the comparison table. 
   
-(‘AI Code Generation’ is a reference to a much mocked feature that we used to list on our website. We have method of facilitating construction of a user interface from a data model, which - if you squint and twist your head to 90 degrees - could be AI Code Generation)
+<p align="center">
+<img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/aicodegeneration.png">
+  
+
 
 My answer:
-```
-think it divides people - some developers, like the chap in our community, are super excited by the ideas in web3. What we are building, especially if we go deeper on merge and push/pull, is very web3, so we have to own that as an idea set.
+
+> think it divides people - some developers, like the chap in our community, are super excited by the ideas in web3. What we are building, especially if we go deeper on merge and push/pull, is very web3, so we have to own that as an idea set.
 putting people off isn't a bad thing - we want to put off the people that aren't going to invest time in building and being too generic is bad for separating out the groups
-```
-I then become fairly self-righteous in my responses:
-```
-if we define what it is for us then we can refer back to that
+
+I then become fairly (self) righteous in my responses:
+
+> if we define what it is for us then we can refer back to that
 on the broader point, there is no way to address the project to the majority of devs. We need to address devs that will actually use our software. If we remain too general, then people don't know why they should bother. At the moment our general, technical descriptions aren't hitting home to get a sufficient number of new users.
 i don't think  decentralized, distributed, trust free, permissionless, stateful applications are hype  - i think they are valuable and we should explain to people why they are valuable
 if the ideas around web3 get rejected, so do our core ideas
 if we can't separate out the valuable from the useless, nobody else will do it for us
-```
 
 
-the hype is the problem, not the ideas
 
+My basic thesis: the hype is the problem, not the ideas
 
+So we put it to a vote... and it turns out that we are divided both on LinkedIn
+  
 <p align="center">
-<img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/image.png">
+<img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/linkedinvote.JPG">
+
   
-  
+And on the more free flowing Twitter:
   
 <p align="center">
 <img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/twittervote.JPG">
   
   
-  
-<p align="center">
-<img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/linkedinvote.JPG">
+Worse take of them all. Do people have no shame? 
 
+<p align="center">
+<img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/image.png">
