@@ -1,6 +1,6 @@
 # Were-we-wrong-about-Web3?
 
-This is a narrative about our dialectical struggle with Web3 and Not-Web3. 
+This is a narrative about our dialectical struggle between Web3 and Not-Web3. We'd like to find a synthesis; however, we're not sure that we will. 
 
 <p align="center">
 <img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/hightower.JPG">
