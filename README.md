@@ -1,5 +1,6 @@
 # Were-we-wrong-about-Web3?
 
+This is a narrative about our dialectical struggle with Web3 and Not-Web3. 
 
 <p align="center">
 <img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/hightower.JPG">
@@ -12,7 +13,7 @@ If git is the most successful Web3 project, and TerminusDB is ‘git for data’
 
 ### We are git for data, so are we web3? 
   
-While blockchain is too slow for software, immutabile - or append-only - data store are great. Or at least I think so. Web3 This is obviously something that revision control distributed databases with git-like qualities, so I asked the author of the [definitive blog](https://www.dolthub.com/blog/2021-09-17-database-version-control/) on version controlled databases. Tim from [Dolt](https://github.com/dolthub/dolt) said: 
+While blockchain is too slow for software, immutabile - or append-only - data stores are great. Or at least I think so. Web3 This is obviously something that revision control distributed databases with git-like qualities, so I asked the author of the [definitive blog](https://www.dolthub.com/blog/2021-09-17-database-version-control/) on version controlled databases. Tim from [Dolt](https://github.com/dolthub/dolt) said: 
 
 > If we’re extending the definition of web3 to include decentralized software systems, Version controlled databases, like Terminus and Dolt, must be included. Tim Sehn
 
@@ -43,12 +44,12 @@ The last of these doesn't exist - although we've thought about it. We could prob
 given the current coverage, with the outstanding parts as roadmap.
 ```
   
-We need money to grow the project and there has been a lot of energy (and funding) in web3 projects. But in that description you get a feeling for what we see as web3. A lot of contrarian hacker commentary suggests that web 2.0 gave us centralized services because that is what we want. People - in this antropology of the internet - aren't like network engieers with their love of distributed systems, they want Facebook to see their pals and google to do the rest. In this model, people don't want to spend time setting up their own shit and just want to use what is there at whatever price. That's true - but it also describes the failure of distributed systems in web 2.0 - people don't want to set up their own shit AND they don't want megacorps controlling their digital lives. Our vision of web3 has both. 
+We need money to grow the project and there has been a lot of energy (and funding) in web3 projects. But in that description you get a feeling for what we see as web3. A lot of contrarian hacker commentary suggests that web 2.0 gave us centralized services because that is what we want. People - in this anthropology of the internet - aren't like network engineers with their love of distributed systems, they want Facebook to see their pals and google to do the rest. In this model, people don't want to spend time setting up their own shit and just want to use what is there at whatever price. That's true - but it also describes the failure of distributed systems in web 2.0 - people don't want to set up their own shit AND they don't want megacorps controlling their digital lives. Our vision of web3 has both. 
   
 
 To return to the debate narrative, we then mentioned Web3 in this [JSON Diff and Patch article](https://terminusdb.com/blog/json-diff-and-patch-the-future/) that was briefly on the [front page of Hacker News](https://news.ycombinator.com/item?id=30362025)
 
-And even thou the article wasn’t about web3, that’s where the push back came in the comments. People are *literally* offended by the word. 
+And even though the article wasn’t about web3, that’s where the push back came in the comments. People are *literally* offended by the word. 
 
 > web3
 oh no. 
@@ -76,7 +77,7 @@ Vs
 Those crypto-bro NFT grifters moronically engaging in a pyramid scheme. 
 
 
-The conversation moved into our community and most their supported the anit-web3 vibe.
+The conversation moved into our community and most their supported the anti-web3 vibe.
 
 > I share the other posters reaction 🤣
 web3
@@ -89,10 +90,10 @@ This was followed with some faint praise
 
 And (which is funny as we would - of course - like funding from any crypto whales out there) 
   
-> It is in my experience, unless you're out for funding from some crypto whales, I wouldn't touch it with a ten foot pole. NFTs were the death knell to the whole thing, bitcoins absurdity brought to a level indistinguishable from satire
+> It is, in my experience, unless you're out for funding from some crypto whales, I wouldn't touch it with a ten foot pole. NFTs were the death knell to the whole thing, bitcoins absurdity brought to a level indistinguishable from satire
 
 
-I then suggested that we should try to rebrand Web3 and 'Sematic Web3' to take advantage of our varied strengths. This was - the admittedly hilarious - response:
+I then suggested that we should try to rebrand Web3 and 'Semantic Web3' to take advantage of our varied strengths. This was - the admittedly hilarious - response:
 
 > to get both the connotation of failed enterprise technology and scammy hipster tech?
 
@@ -128,7 +129,7 @@ After this I thought I should have another attempt to convince the team and said
 > i think we need to start looking at 'baby not bathwater' web3 content for the site & blog
 we should have a discussion, but i think we should wet our beaks at least
 
-(baby not bathwater is in reference to a line I have been propogating about not throwing the distributed, decetnralized baby out with the NFT bathwater)
+(baby not bathwater is in reference to a line I have been propagating about not throwing the distributed, decentralized baby out with the NFT bathwater)
 
 Which was met with
 
@@ -169,9 +170,27 @@ And on the more free flowing Twitter:
   
 <p align="center">
 <img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/twittervote.JPG">
+
+
+So we come to the end of this part of our discovery no more enlightened than we started. Is Web3 just about the grifters and the blockchainies? Or is web3 a better tomorrow and something worth striving for? 
   
+What we want is: 
   
-Worse take of them all. Do people have no shame? 
+Decentralized web and application infrastructure
+Ownership of data, content, and platforms
+Distributed, trustless, & robust infrastructure
+Open, public, composable back ends
+  
+If we also get
+  
+Native digital payments
+Self-sovereign identity
+  
+Then that is also fine. What we don't want is loads of grifters in pump and dump shitcoins and pompous VCs getting rich. We also don't want slow applications that are built on the chain. 
+  
+Is there a happy medium, can we keep the good and cast out the bad? Can we build a better tomorrow?
+  
+Couldn't finish without pointing out the worst take of them all. Do people have no shame? 
 
 <p align="center">
 <img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/image.png">
