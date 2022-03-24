@@ -70,14 +70,14 @@ In general the whole thing feels a bit like this type of debate:
   
 
 
-Their snarky, snobby engineers who see themselves as the holders of development truth. 
+### Their snarky, snobby engineers who see themselves as the holders of development truth. 
 
-Vs
+### Vs
 
-Those crypto-bro NFT grifters moronically engaging in a pyramid scheme. 
+### Those crypto-bro NFT grifters moronically engaging in a pyramid scheme. 
 
 
-The conversation moved into our community and most their supported the anti-web3 vibe.
+The conversation moved into our community and most supported the anti-Web3 vibe.
 
 > I share the other posters reaction 🤣
 web3
@@ -131,8 +131,7 @@ we should have a discussion, but i think we should wet our beaks at least
 
 (baby not bathwater is in reference to a line I have been propagating about not throwing the distributed, decentralized baby out with the NFT bathwater)
 
-Which was met with
-
+Which was met with:
 
 > I'm not part of marketing so it is obvious not my thing to decide but as a developer I get the chills every time I read Web 3.0. If a project contains this sort of text it immediately puts me off and I would really have to be convinced that it is a good thing before I look at it again. 😄 I think the majority of devs are like this and only a tiny amount of cryptocurrency enthusiasts like the whole idea of Web 3.0. I would be a little bit reluctant about riding the hype train as I remember that the "AI Code generation" thing was also badly received and puts people off.
 
@@ -158,7 +157,7 @@ if we can't separate out the valuable from the useless, nobody else will do it f
 
 
 
-My basic thesis: the hype is the problem, not the ideas
+### My basic thesis: the hype is the problem, not the ideas
 
 So we put it to a vote... and it turns out that we are divided both on LinkedIn
   
