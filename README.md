@@ -180,7 +180,7 @@ Ownership of data, content, and platforms
 Distributed, trustless, & robust infrastructure
 Open, public, composable back ends
   
-If we also get
+If we also get:
   
 Native digital payments
 Self-sovereign identity
