@@ -1,6 +1,6 @@
 # Were-we-wrong-about-Web3?
 
-This is a narrative about our dialectical struggle between Web3 and Not-Web3. We'd like to find a synthesis; however, we're not sure that we will. 
+This is a narrative about our dialectical struggle between Web3 and Not-Web3. We'd like to find a Web3 synthesis; however, we're not sure that we will. 
 
 <p align="center">
 <img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/hightower.JPG">
@@ -9,7 +9,7 @@ Git is the most successful Web3 project.
 
 The tweet that launched a thousand TerminusDB debates.
 
-If git is the most successful Web3 project, and TerminusDB is ‘git for data’ then we must be web3, right? *[Socrates is a man](https://en.wikipedia.org/wiki/Syllogism) and all that*. But isn't web3 about blockchain and crypto? Certainly every hacker site that I visit has an article attacking web3, but *usually* just as a proxy for attacking blockchain. And that I get. Blockchain is too slow for data. 
+If git is the most successful Web3 project, and TerminusDB is ‘git for data’ then we must be Web3, right? *[Socrates is a man](https://en.wikipedia.org/wiki/Syllogism) and all that*. But isn't Web3 about blockchain and crypto? Certainly every hacker site that I visit has an article attacking web3, but *usually* just as a proxy for attacking blockchain. And that I get. Blockchain is too slow for data. 
 
 ### We are git for data, so are we web3? 
   
@@ -171,19 +171,19 @@ And on the more free flowing Twitter:
 <img src="https://github.com/terminusdb/terminusdb-web-assets/blob/master/blogs/twittervote.JPG">
 
 
-So we come to the end of this part of our discovery no more enlightened than we started. Is Web3 just about the grifters and the blockchainies? Or is web3 a better tomorrow and something worth striving for? 
+So we come to the end of this part of our discovery no more enlightened than we started. Is Web3 just about the grifters and the blockchainies? Or is Web3 a better tomorrow and something worth striving for? 
   
 What we want is: 
   
-Decentralized web and application infrastructure
-Ownership of data, content, and platforms
-Distributed, trustless, & robust infrastructure
-Open, public, composable back ends
+- Decentralized web and application infrastructure
+- Ownership of data, content, and platforms
+- Distributed, trustless, & robust infrastructure
+- Open, public, composable back ends
   
 If we also get:
   
-Native digital payments
-Self-sovereign identity
+- Native digital payments
+- Self-sovereign identity
   
 Then that is also fine. What we don't want is loads of grifters in pump and dump shitcoins and pompous VCs getting rich. We also don't want slow applications that are built on the chain. 
   
