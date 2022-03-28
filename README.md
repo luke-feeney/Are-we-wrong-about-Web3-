@@ -7,7 +7,7 @@ This is a narrative about our dialectical struggle between Web3 and Not-Web3. We
 
 Git is the most successful Web3 project.
 
-The tweet that launched a thousand TerminusDB debates.
+The tweet that launched a thousand [TerminusDB](https://github.com/terminusdb/terminusdb) debates.
 
 If git is the most successful Web3 project, and TerminusDB is ‘git for data’ then we must be Web3, right? *[Socrates is a man](https://en.wikipedia.org/wiki/Syllogism) and all that*. But isn't Web3 about blockchain and crypto? Certainly every hacker site that I visit has an article attacking web3, but *usually* just as a proxy for attacking blockchain. And that I get. Blockchain is too slow for data. 
 
@@ -17,7 +17,7 @@ While blockchain is too slow for software, immutabile - or append-only - data st
 
 > If we’re extending the definition of web3 to include decentralized software systems, Version controlled databases, like Terminus and Dolt, must be included. Tim Sehn
 
-But maybe I am just projecting my own image - or the image of TerminusDB - on web3? Like Narcissus, am I falling in love with my own reflection? 
+But maybe I am just projecting my own image - or the image of [TerminusDB](https://terminusdb.com/) - on web3? Like Narcissus, am I falling in love with my own reflection? 
   
 We spent the late part of last year batting some Web3 ideas back and forth, but mostly in the context of pitching to VCs. Here is an email that Gavin sent to me:
 
